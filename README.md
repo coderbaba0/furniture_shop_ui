@@ -1,16 +1,17 @@
+
 # furniture_shop_ui
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+this is flutter UI homepage, filter and cart screen.
+JUST clone and implement it.
 
-A few resources to get you started if this is your first Flutter project:
+For more: https://flutterfever.com/
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![1](https://github.com/coderbaba0/furniture_shop_ui/assets/128967105/332a454b-5beb-4a42-978a-eb32926eb329)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2](https://github.com/coderbaba0/furniture_shop_ui/assets/128967105/d850d578-0c8b-446e-be96-17cc04513bf1)
+
+![3](https://github.com/coderbaba0/furniture_shop_ui/assets/128967105/11a07502-db4b-43aa-953d-ef0cb0a2d250)
