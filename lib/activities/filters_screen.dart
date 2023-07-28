@@ -41,7 +41,7 @@ class _FiltersScreenState extends State<FiltersScreen> {
             ),
             GestureDetector(
               child: Text(
-                "Continue",
+                "Continue ",
                 style: TextStyle(
                     fontWeight: FontWeight.bold,
                     fontSize: 16,
