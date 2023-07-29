@@ -265,7 +265,7 @@ class _ShoppingCartScreenState extends State<ShoppingCartScreen> {
                                 width: 10,
                               ),
                               Text(
-                                "1-800-934-1571",
+                                "1-800-934-1574",
                                 style: TextStyle(
                                     color: Colors.orange,
                                     fontSize: 16,
